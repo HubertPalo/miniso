@@ -1,0 +1,25 @@
+﻿@{
+    ViewBag.Title = "Otrocontroller - Menu principal";
+}
+<script src="~/Scripts/AngularFile.js"></script>
+<script src="~/Scripts/angular.min.js"></script>
+<script src="~/Scripts/angular-route.min.js"></script>
+<div>
+    <div id="tablaUsuarios" ng-app="General" ng-controller="UsersController">
+        <div>{{myWelcome}}</div>
+        <table>
+            <tr>
+                <th>ID</th>
+                <th>NAME</th>
+                <th>EMAIL</th>
+            </tr>
+            <tbody ng-repeat="usuario in myWelcome">
+                <tr>
+                    <td>{{usuario.Id}}</td>
+                    <td>{{usuario.Name}}</td>
+                    <td>{{usuario.Email}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

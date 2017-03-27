@@ -1,0 +1,10 @@
+﻿REGISTRO DE NUEVO USUARIO
+
+<form ng-submit="register_user()">
+    NOMBRE: <input type="text" ng-model="name" /><br />
+    EMAIL: <input type="text" ng-model="email" /><br />
+    CONTRASEÑA: <input type="password" ng-model="password" /><br />
+    CONFIRME SU CONTRASEÑA: <input type="password" ng-model="confirm_password" /><br />
+    <input type="submit" value="REGISTRARSE" />
+    {{mensajeError}}
+</form>

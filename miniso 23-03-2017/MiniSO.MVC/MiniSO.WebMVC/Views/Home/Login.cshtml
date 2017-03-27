@@ -1,0 +1,20 @@
+﻿@{
+    Layout = null;
+}
+
+<h2>Login</h2>
+
+<div>
+    <div id="tablaUsuarios">
+        <form ng-submit="login()">
+            Nick de usuario:
+            <input type="text" ng-model="username"><br>
+            Password:
+            <input type="text" ng-model="password"><br>
+            <input type="submit" value="Submit">
+            <div>{{mensaje}}</div>
+            <div>{{mensaje2}}</div>
+            <div>{{mensaje3}}</div>
+        </form>
+    </div>
+</div>

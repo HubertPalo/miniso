@@ -1,0 +1,30 @@
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Common\bin\Debug\MiniSO.Common.dll.config
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Common\bin\Debug\MiniSO.Common.dll
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Common\bin\Debug\MiniSO.Common.pdb
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Common\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Common\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Common\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Common\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Common\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Common\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Common\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Common\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Common\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Common\obj\Debug\MiniSO.Common.csprojResolveAssemblyReference.cache
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Common\obj\Debug\MiniSO.Common.dll
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Common\obj\Debug\MiniSO.Common.pdb
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Common\bin\Debug\MiniSO.Common.dll.config
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Common\bin\Debug\MiniSO.Common.dll
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Common\bin\Debug\MiniSO.Common.pdb
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Common\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Common\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Common\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Common\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Common\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Common\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Common\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Common\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Common\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Common\obj\Debug\MiniSO.Common.csprojResolveAssemblyReference.cache
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Common\obj\Debug\MiniSO.Common.dll
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Common\obj\Debug\MiniSO.Common.pdb

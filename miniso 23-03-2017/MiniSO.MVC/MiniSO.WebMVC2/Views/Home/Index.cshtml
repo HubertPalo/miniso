@@ -1,0 +1,13 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div ng-controller="GeneralController">
+    <ul>
+        <li><a href="#!/">STACK OVERFLOW CLONE</a></li>
+        <li ng-show="objetopadre.logueado"><a href="#!/usermenu">USER MENU</a></li>
+        <li style="float:right" ng-hide="objetopadre.logueado"><a class="active" href="#!/login">LOGIN</a></li>
+        <li style="float:right" ng-show="objetopadre.logueado"><a class="active" href="#!/logout">LOGOUT</a></li>
+        <li style="float:right"><a class="active" href="#!/newuser">REGISTER</a></li>
+    </ul>    
+    <ng-view></ng-view>
+</div>

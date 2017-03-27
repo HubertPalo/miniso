@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "Usuario - Menu principal";
+}
+<p>@Html.ActionLink("Create New", "Create")</p>
+<div>
+    <div id="tablaUsuarios" ng-app="app" ng-controller="UsersController">
+        <form ng-submit="update_welcome()"><input type="submit" value="Submit"></form>
+        <div>{{myWelcome}}</div>
+        <table>
+            <tr>
+                <th>ID</th>
+                <th>NAME</th>
+                <th>EMAIL</th>
+            </tr>
+            <tbody ng-repeat="usuario in products">
+                <tr>
+                    <td>{{usuario}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

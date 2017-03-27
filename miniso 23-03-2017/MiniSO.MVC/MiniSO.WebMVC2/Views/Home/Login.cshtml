@@ -1,0 +1,12 @@
+﻿@{
+    Layout = null;
+}
+
+<p>LOGIN</p>
+<form ng-submit="login()">
+    USERNAME: <input type="text" ng-model="username" />
+    PASSWORD: <input type="text" ng-model="password" />
+    <input type="submit" value="LOG IN">
+    {{error_datos_incorrectos}}
+    {{mensajeprueba}}
+</form>

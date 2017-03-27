@@ -1,0 +1,59 @@
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Entidades\bin\Debug\MiniSO.Entidades.dll.config
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Entidades\bin\Debug\MiniSO.Entidades.dll
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Entidades\bin\Debug\MiniSO.Entidades.pdb
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Entidades\bin\Debug\EntityFramework.dll
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Entidades\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Entidades\bin\Debug\MiniSO.Common.dll
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Entidades\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Entidades\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Entidades\bin\Debug\MiniSO.Common.pdb
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Entidades\bin\Debug\EntityFramework.xml
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Entidades\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Entidades\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Entidades\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Entidades\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Entidades\obj\Debug\MiniSO.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Entidades\obj\Debug\MiniSO.Entidades.dll
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Entidades\obj\Debug\MiniSO.Entidades.pdb
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Entidades\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\HUBERT\Documents\Visual Studio 2015\Projects\MiniSO\MiniSO.Entidades\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\MiniSO.Entidades.dll.config
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\MiniSO.Entidades.dll
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\MiniSO.Entidades.pdb
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\EntityFramework.dll
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\MiniSO.Common.dll
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\MiniSO.Common.pdb
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\MiniSO.Common.dll.config
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\EntityFramework.xml
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Entidades\obj\Debug\MiniSO.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Entidades\obj\Debug\MiniSO.Entidades.dll
+C:\Users\NILRAD\Desktop\miniso 23-03-2017\MiniSO\MiniSO.Entidades\obj\Debug\MiniSO.Entidades.pdb
+C:\Users\NILRAD\Documents\GitHub\miniso\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\MiniSO.Entidades.dll.config
+C:\Users\NILRAD\Documents\GitHub\miniso\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\MiniSO.Entidades.dll
+C:\Users\NILRAD\Documents\GitHub\miniso\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\MiniSO.Entidades.pdb
+C:\Users\NILRAD\Documents\GitHub\miniso\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\EntityFramework.dll
+C:\Users\NILRAD\Documents\GitHub\miniso\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NILRAD\Documents\GitHub\miniso\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\MiniSO.Common.dll
+C:\Users\NILRAD\Documents\GitHub\miniso\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\NILRAD\Documents\GitHub\miniso\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\NILRAD\Documents\GitHub\miniso\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\MiniSO.Common.pdb
+C:\Users\NILRAD\Documents\GitHub\miniso\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\MiniSO.Common.dll.config
+C:\Users\NILRAD\Documents\GitHub\miniso\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\EntityFramework.xml
+C:\Users\NILRAD\Documents\GitHub\miniso\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NILRAD\Documents\GitHub\miniso\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\NILRAD\Documents\GitHub\miniso\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\NILRAD\Documents\GitHub\miniso\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\NILRAD\Documents\GitHub\miniso\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\NILRAD\Documents\GitHub\miniso\miniso 23-03-2017\MiniSO\MiniSO.Entidades\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\NILRAD\Documents\GitHub\miniso\miniso 23-03-2017\MiniSO\MiniSO.Entidades\obj\Debug\MiniSO.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\NILRAD\Documents\GitHub\miniso\miniso 23-03-2017\MiniSO\MiniSO.Entidades\obj\Debug\MiniSO.Entidades.dll
+C:\Users\NILRAD\Documents\GitHub\miniso\miniso 23-03-2017\MiniSO\MiniSO.Entidades\obj\Debug\MiniSO.Entidades.pdb

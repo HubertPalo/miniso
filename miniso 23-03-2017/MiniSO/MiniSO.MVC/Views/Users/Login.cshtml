@@ -1,0 +1,20 @@
+﻿@model MiniSO.Entidades.UserView
+@{
+    ViewBag.Title = "Login";
+}
+<table>
+    <tr>
+        <td>@Html.LabelFor(model => model.UserName)</td>
+        <td>@Html.TextBoxFor(model => model.UserName)</td>
+        <td>@Html.ValidationMessageFor(model => model.UserName)</td>
+    </tr>
+    <tr>
+        <td>@Html.LabelFor(model => model.UserPassword)</td>
+        <td>@Html.PasswordFor(model => model.UserPassword)</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><input type="submit" value="Login"/></td>
+        <td></td>
+    </tr>
+</table>

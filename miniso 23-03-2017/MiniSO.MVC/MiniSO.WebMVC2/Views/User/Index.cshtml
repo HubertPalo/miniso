@@ -1,0 +1,11 @@
+﻿
+Welcome, {{user_name}}!
+Here you can ask, search and answer what you want!
+
+<button ng-click="ir_a_preguntar()">PREGUNTA!</button>
+<button ng-click="ir_a_busqueda()">BUSCA PREGUNTAS!</button>
+<button ng-click="ir_a_home()">REGRESAR A LA PAGINA PRINCIPAL</button>
+
+<div ng-repeat="item in items">
+    <a href="#!/questions/{{item.Id}}">{{item.Title}}</a>
+</div>
